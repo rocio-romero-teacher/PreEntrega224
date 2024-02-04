@@ -1,0 +1,1916 @@
+WEBVTT
+
+01:36:26.000 --> 01:36:38.000
+Tommy con me paro en la rama en la cual yo quiero traerme. Todo. Yo quiero modificar es máster en este caso.
+
+01:36:38.000 --> 01:36:58.000
+Voy a modificar máster entonces que me voy a traer todas las cosas. ¿De qué nueva rama? Entonces me paro el máster y uso en Git emerge. Y el nombre de la rama en la cual yo quiero traerme esos cambios.
+
+01:36:58.000 --> 01:37:01.000
+Que en mi caso es nueva rama.
+
+01:37:01.000 --> 01:37:08.000
+Ahora sigue existiendo esta nueva rama.
+
+01:37:08.000 --> 01:37:15.000
+Opinan.
+
+01:37:15.000 --> 01:37:34.000
+Veamos Branch. Recordemos, para enlistar nuestras nuestras ramas. Y si sigue existiendo, si yo hago nueva rama, está ahí, funciona.
+
+01:37:34.000 --> 01:37:39.000
+Todo. Ok.
+
+01:37:39.000 --> 01:37:46.000
+Bien.
+
+01:37:46.000 --> 01:38:00.000
+Alguna duda.
+
+01:38:00.000 --> 01:38:03.000
+Podemos eliminarla.
+
+01:38:03.000 --> 01:38:11.000
+Podemos renombrarla. ¿Cómo renombramos una moneda chico Te pasas de ramas.
+
+01:38:11.000 --> 01:38:17.000
+¿Qué pasa si quiero renombrar la rama?
+
+01:38:17.000 --> 01:38:22.000
+Por ejemplo, nuevas ramas. Yo no quiero que se llame. Sí. Creo que se llama otra forma.
+
+01:38:22.000 --> 01:38:32.000
+Primero para renombrar una rama, no debo estar parada en ella. Así que sí.
+
+01:38:32.000 --> 01:38:47.000
+Para renombrar la rama. Chicos. Voy a decir, y entran, guion M para modificar, y tenemos que usar el nombre viejo nueva rama y cambiarle.
+
+01:38:47.000 --> 01:38:56.000
+Y al lado del nombre nuevo nombre Rama nueva. Vamos a invertirlo.
+
+01:38:56.000 --> 01:39:01.000
+De Oriente y veamos. Ahora bien, Branch.
+
+01:39:01.000 --> 01:39:10.000
+Y ahora se llama rama.
+
+01:39:10.000 --> 01:39:29.000
+¿Cómo eliminamos una rama. Vamos a decirle bien, planche guion de mayúscula de Billy, y vamos a decirle derrama y ordenador.
+
+01:39:29.000 --> 01:39:53.000
+En el plancha y en efecto, ya no existe más.
+
+01:39:53.000 --> 01:40:05.000
+Dudas, miedos, incertidumbres.
+
+01:40:05.000 --> 01:40:16.000
+Generalmente no se tocan. No se retocan a menos que pase algo nuevo. Pero haces una rama nueva.
+
+01:40:16.000 --> 01:40:39.000
+Esto es práctica. Obviamente, no van a estar renombrando ramas ni nada. Lo ideal mientras están aprendiendo es solamente dedicarse a usar estos 2 comités todos comando Fit At y comic si no hace falta que esté trabajando con ramas ni nada Si tienes miedo.
+
+01:40:39.000 --> 01:40:46.000
+Si pueden practicar, y si van a practicar que no sean en su proyecto, por favor.
+
+01:40:46.000 --> 01:40:57.000
+Así que Little com comienzan los 2 comandos que van a necesitar y van más a utilizar.
+
+01:40:57.000 --> 01:41:02.000
+Sí.
+
+01:41:02.000 --> 01:41:10.000
+Sí.
+
+01:41:10.000 --> 01:41:14.000
+Cómo crear una rama arturo decís.
+
+01:41:14.000 --> 01:41:23.000
+Así como Branch, nombre de Rama.
+
+01:41:23.000 --> 01:41:41.000
+Bien, vamos a hacer esto? Vamos a agregar los otros comandos y más y a.
+
+01:41:41.000 --> 01:41:57.000
+Y Branch Guionéme para modificar nombre viejo nombre nombre actual. Nombre nuevo.
+
+01:41:57.000 --> 01:42:02.000
+Finalmente el Branch, donde mayúscula nombre.
+
+01:42:02.000 --> 01:42:08.000
+Un rama.
+
+01:42:08.000 --> 01:42:15.000
+No. Frank: Lo que no entendiste es 11. Se quitó el mismo Html.
+
+01:42:15.000 --> 01:42:25.000
+Ya es que vas a hacer una Ccs. Bueno, siempre vas a trabajar el mismo.
+
+01:42:25.000 --> 01:42:36.000
+Bien, como yo sé que medio raro al principio difícil de leer todo, había hecho una guía.
+
+01:42:36.000 --> 01:42:40.000
+De Git.
+
+01:42:40.000 --> 01:42:45.000
+No todos los comandos.
+
+01:42:45.000 --> 01:42:50.000
+Acá con las categorías.
+
+01:42:50.000 --> 01:42:56.000
+Para que vayan viendo.
+
+01:42:56.000 --> 01:43:07.000
+Y pueda chumear y tenerla ahí a mano.
+
+01:43:07.000 --> 01:43:16.000
+Así que aprovechen. La hice yo el año pasado, así que tengo que agregar un par de cosas nuevas sin modificar Te han salido un par de cosas nuevas.
+
+01:43:16.000 --> 01:43:29.000
+Las quiero implementar, pero acá chusmear y tenerlo todo un poco más centralizado.
+
+01:43:29.000 --> 01:43:36.000
+Así que aprovechen esta buena vida, no porque la hice. Yo.
+
+01:43:36.000 --> 01:43:52.000
+No hay.
+
+01:43:52.000 --> 01:44:01.000
+Así que después vean, la tienen más comandos de lo que vamos a ver en clase, Así que está bastante completa.
+
+01:44:01.000 --> 01:44:09.000
+Y la pueden usar tranquilamente.
+
+01:44:09.000 --> 01:44:21.000
+Claro. Cris Básicamente, Cristian dice a ver cuando llega una rama nueva, todo lo que hagan en el Html o Css, solo quedará en esa rama para hacer que la traiga a la rama master.
+
+01:44:21.000 --> 01:44:28.000
+Claro, Claro que sí.
+
+01:44:28.000 --> 01:44:44.000
+Todo lo que vos hagas agregar, eliminar y modificar archivos en esa rama. Va a quedar solamente en esa rampata que era sumerge a la rama master o game.
+
+01:44:44.000 --> 01:45:04.000
+Sí, siempre y cuando haya un comic, ¿no? Porque si vos trabajaste en una rama y no hiciste comida cuando te vayas a otra rama, te va a acompañar.
+
+01:45:04.000 --> 01:45:34.000
+Es como tener un globo con elio que te acompaña a todos lados hasta que lo atas en un árbol o en un póster cuando atrás al poste se queda ahí y no te sigue eso pasa con los cominos se guardan si bueno, lo guardas aunque vos te cambies y camines como loco el logo te va a seguir hasta que hagas o lo antes bien hasta acá hemos llegado.
+
+01:45:43.000 --> 01:46:05.000
+Les quiero preguntar: ¿hay alguien que no ha podido instalar gate o configurarlo?
+
+01:46:05.000 --> 01:46:12.000
+Sino así lo puedo ayudar. Hay alguien que no ha podido?
+
+01:46:12.000 --> 01:46:28.000
+Que sería complicado y quiso seguir en lugar de no molestar por ahí. No tenga vergüenza de decir: profe Yo no pude.
+
+01:46:28.000 --> 01:46:43.000
+Bueno, hoy vamos a meter un Break un poquito más largo, pues la visión a mí, la visión, esos son temas y la forma de personalizar santi básicamente.
+
+01:46:43.000 --> 01:46:46.000
+Puedes personalizarla como quieras.
+
+01:46:46.000 --> 01:46:53.000
+Bien, Sonia. 23. Volvemos a las 14 h. ¿Les parece qué opina el público?
+
+01:46:53.000 --> 01:46:57.000
+La banda, la bandeja.
+
+01:46:57.000 --> 01:47:03.000
+Después, la segunda parte de la clase también está bastante Chile, así que.
+
+01:47:03.000 --> 01:47:09.000
+Vayan a comer rico. Tomen agua a pasear a mascotas.
+
+01:47:09.000 --> 01:47:18.000
+¿sí? Catorce horas, volvemos, Sí. Darwin Decime, los demás pueden irse.
+
+01:47:18.000 --> 01:47:28.000
+Quieres saber ya lo que vamos a ver o quieres ver después. Porque la entrega se habla en realidad. Después. Ja: Ja: Ja.
+
+01:47:28.000 --> 01:47:31.000
+La clase de Githhow.
+
+01:47:31.000 --> 01:47:35.000
+Y nos vimos en esa playa.
+
+01:47:35.000 --> 01:48:05.000
+Ya lo vemos después. Sí, es bastante bastante sencillo. Así que lo vemos Después chicos. Volvemos a las 14 h.
+
+02:24:50.000 --> 02:25:00.000
+Vamos volviendo.
+
+02:25:00.000 --> 02:25:10.000
+Volvemos aquí, arrancamos.
+
+02:25:10.000 --> 02:25:22.000
+Patas muy poco, porque si no, no volvía, si comía bien, no volvía.
+
+02:25:22.000 --> 02:25:30.000
+Pasa que me he quedado anoche. Hice anoche y zorrantinos caseros.
+
+02:25:30.000 --> 02:25:34.000
+Hugo, yo estoy ahí.
+
+02:25:34.000 --> 02:25:48.000
+A y después de acá por lo menos una hora donde tirar, pues si no después se hacía que tenía vida, ¿no?
+
+02:25:48.000 --> 02:25:59.000
+Comieron ustedes de ricos balas que almorzaron o cenaron? ¿Vamos merendar?
+
+02:25:59.000 --> 02:26:05.000
+Igual, me caía pedazos con los arrentinos. Era la primera vez que hacía sorrentinos caseros.
+
+02:26:05.000 --> 02:26:14.000
+Tenían forma de herramientas que sonrentinos. Ja ja.
+
+02:26:14.000 --> 02:26:21.000
+Eran de relleno de espinaca con ricota queso y queso.
+
+02:26:21.000 --> 02:26:27.000
+Pero no me salieron muy, pero bueno, ya los últimos se le había agarrado la mano.
+
+02:26:27.000 --> 02:26:32.000
+Pero bueno, es así. Chicos Prueba y error.
+
+02:26:32.000 --> 02:26:44.000
+Si la masa también gasta todos, o sea, cuando digo casero, es todo chico.
+
+02:26:44.000 --> 02:26:53.000
+Me gusta mucho Cocinar.
+
+02:26:53.000 --> 02:27:11.000
+Nada más. No tengo el peso del todo eso de gente con plata Estiré la masa con una botella.
+
+02:27:11.000 --> 02:27:28.000
+Jajaja. ¿Qué es eso de usar maquinita? No puedo decir lo que piensan, porque me cancela.
+
+02:27:28.000 --> 02:27:36.000
+Nunca dije que al final estaba lleno.
+
+02:27:36.000 --> 02:27:45.000
+No, Bueno, no debe tener media botella.
+
+02:27:45.000 --> 02:27:49.000
+Uh. Es sanandito.
+
+02:27:49.000 --> 02:28:07.000
+Ya Fernandito era, fueron. Fue mi primer bebida alcohólica en mi vida. ¡Dios mío! De suerte no me agarró nada en el estómago con eso.
+
+02:28:07.000 --> 02:28:19.000
+Ya ahí me agarré zafé el coronavirus. Todo con.
+
+02:28:19.000 --> 02:28:37.000
+Lo gracioso es que cuando yo era más chico, tenía 17. Ahora soy reforma. También. Si faltan el vino y la cerveza.
+
+02:28:37.000 --> 02:28:44.000
+Aunque no suelo tomar solo en ocasiones.
+
+02:28:44.000 --> 02:28:48.000
+Sí es bueno, es rico. El buonero.
+
+02:28:48.000 --> 02:28:54.000
+Es un poco más amargo, pero va.
+
+02:28:54.000 --> 02:29:04.000
+A ver el 18 82 también es rico, pasa que la gente es muy pretenciosa. Webfern Branca o nada.
+
+02:29:04.000 --> 02:29:17.000
+Y es tipo dale en serio flaco comer por 40. No vas a tomar carne. Dieciocho 82.
+
+02:29:17.000 --> 02:29:20.000
+Sí.
+
+02:29:20.000 --> 02:29:34.000
+Las ventajas de nos beber. Normalmente es eso esas complicaciones? No las tengo? No las tengo, mejor dicho.
+
+02:29:34.000 --> 02:30:02.000
+En realidad una forma es un rico. Menos del bitones. Si van ahí para abajo, si tienes que ser ahí, tienes un serio problema porque son horribles, pero después, los demás. El 18 82 es más dulce que el branca el buonero es un poco más amargo que es blanca.
+
+02:30:02.000 --> 02:30:17.000
+Nunca probé bitones, pero todo el mundo dice que es buenísimo, pero es Fernandito porque, bueno, con un peso con 50, en su momento.
+
+02:30:17.000 --> 02:30:28.000
+A ver chicos después de un par de vasos, le ponen manaos alfornia y van a tomarlo igual.
+
+02:30:28.000 --> 02:30:32.000
+No sé qué se hacen.
+
+02:30:32.000 --> 02:30:40.000
+A la Uh. Oye, te formé, ¿Qué pasa con el mate?
+
+02:30:40.000 --> 02:30:46.000
+Jajaja. Ah, que se haga muchachos.
+
+02:30:46.000 --> 02:30:55.000
+La y cerramos la clase.
+
+02:30:55.000 --> 02:31:06.000
+A ver, tengo una pregunta. Lean tu apellido? Es solo ducha de verdad?
+
+02:31:06.000 --> 02:31:09.000
+Tiene algún origen?
+
+02:31:09.000 --> 02:31:22.000
+Y por qué el chat se vino el ja o no sé cómo se pronunciaría.
+
+02:31:22.000 --> 02:31:27.000
+Ah, encima te lo trajeron mal.
+
+02:31:27.000 --> 02:31:33.000
+O sea que ya.
+
+02:31:33.000 --> 02:31:52.000
+Bueno, yo tengo una alumno en otra comisión que se llama Uber.
+
+02:31:52.000 --> 02:32:03.000
+Si he tenido varios alumnos con nombres muy peculiares.
+
+02:32:03.000 --> 02:32:21.000
+Siempre claro, no, o sea solo ducha, es como es medio, muy raro. Muy bizarro. El apellido para ser argentino no va latinoamericano.
+
+02:32:21.000 --> 02:32:27.000
+Por eso te pregunté: ¿cuál sería el origen?
+
+02:32:27.000 --> 02:32:32.000
+No olvidar si eso no lo puedo negar.
+
+02:32:32.000 --> 02:32:36.000
+Es como ver.
+
+02:32:36.000 --> 02:32:45.000
+Igual. Eso es acá porque me imagino que si vos para allá, lo que para esos lados no me acorda.
+
+02:32:45.000 --> 02:32:53.000
+Es reloj, coronado porque apellidos así son graciosos y por ahí son renormales en otros lados maldita Argentina ruedan todo.
+
+02:32:53.000 --> 02:33:01.000
+No podemos hablar en serio.
+
+02:33:01.000 --> 02:33:07.000
+Yo he conocido niños y niñas con hombres que.
+
+02:33:07.000 --> 02:33:13.000
+Chicos. ¿Qué era para hacerle juicio a los padres?
+
+02:33:13.000 --> 02:33:22.000
+Iban a pasar muy feo. Sí, suelen ser medio. Es como ida y vuelta. ¿No?
+
+02:33:22.000 --> 02:33:35.000
+Pasa que depende de la zona tener de Argentina de muchos inmigrantes. Entonces por ahí tienes tus apellidos italianos, otros alemanes, uruguayos paraguayos.
+
+02:33:35.000 --> 02:33:52.000
+Entonces es como, qué hago?
+
+02:33:52.000 --> 02:34:06.000
+Claro que campeón del mundo se puede llamar como quiere ver. El hijo me arrancaba ahí a las peñas.
+
+02:34:06.000 --> 02:34:18.000
+Bueno, chicos. Arrancamos ya. Creo que estamos todos. Como sabrán, hoy se habilita la segunda entrega, así que no se vayan temprano, por favor, que lo vamos a explicar.
+
+02:34:18.000 --> 02:34:23.000
+Estamos de acuerdo.
+
+02:34:23.000 --> 02:34:37.000
+A todo risas Profe, porque había esa necesidad de arruinar. El momento, dijo.
+
+02:34:37.000 --> 02:34:44.000
+Otra cosa. Esta semana vamos a tener Apto, ¿Les parece tenerlo el día jueves. ¿Qué opinan?
+
+02:34:44.000 --> 02:34:58.000
+Porque así pueden ir practicando sus proyectos y hacemos el after con Woody Allen solucionar los problemas que tienen ustedes como siempre: ¿Qué opinan?
+
+02:34:58.000 --> 02:35:02.000
+Les parece especie. Elegimos el horario.
+
+02:35:02.000 --> 02:35:11.000
+Sí.
+
+02:35:11.000 --> 02:35:28.000
+¿A qué hora, ¿Cómo que tenemos? Js: Que es doble curso. Al mismo tiempo, no tiene sentido de eso.
+
+02:35:28.000 --> 02:35:35.000
+Estos son kamikaze.
+
+02:35:35.000 --> 02:35:44.000
+Es que no vas a tener mucho fútbol.
+
+02:35:44.000 --> 02:35:53.000
+Es que bueno, no podemos tener hasta un domingo y lanzado. Tengo una clase, así que es como que rejugados.
+
+02:35:53.000 --> 02:35:54.000
+Entonces que en la semana es complicado para la mayoría, pero por eso después vemos un horario, pero nos pongamos un horario en el que vengan por la última vez.
+
+02:35:54.000 --> 02:36:04.000
+Éramos ¿Siete? Ocho.
+
+02:36:04.000 --> 02:36:08.000
+En todos habían elegido el horario Hoy en día.
+
+02:36:08.000 --> 02:36:27.000
+O sea, por mí no hay problema. El tema es que sea provechoso para ustedes. Si ustedes no lo pueden aprovechar, no se pueden sacar las dudas, no tiene sentido el arte.
+
+02:36:27.000 --> 02:36:34.000
+A qué hora trabajas entre fin?
+
+02:36:34.000 --> 02:36:38.000
+Ehh.
+
+02:36:38.000 --> 02:36:44.000
+Bueno, queréis decirme qué hora es ahora? Ya por empezar.
+
+02:36:44.000 --> 02:36:53.000
+Yo admitido corazón mayor si lo hacemos, Por ejemplo, 19 h Argentina.
+
+02:36:53.000 --> 02:37:01.000
+Les queda Todos retardé.
+
+02:37:01.000 --> 02:37:06.000
+Así que.
+
+02:37:06.000 --> 02:37:15.000
+Pasa que para que la mayoría esté es un gol a la mañana es difícil porque encima el día laboral es complicado en la mañana para la mayoría.
+
+02:37:15.000 --> 02:37:36.000
+Entonces es como, bueno, escuelas, 18 19. No me parece mal horario, y para qué hora era. Dijiste tesis. Ahora son las vidas de la mañana.
+
+02:37:36.000 --> 02:37:42.000
+Claro, pasa A.
+
+02:37:42.000 --> 02:37:53.000
+Es complicado cuando tenemos mucha gente de todos lados, entonces es difícil poder equilibrar. Es que Max lo hago más tarde.
+
+02:37:53.000 --> 02:38:01.000
+Yo no me en hacerlo. Las 20 h tampoco. Sí, no es algo que me moleste ni me imposibilite.
+
+02:38:01.000 --> 02:38:09.000
+Y así no. Pero por eso la idea es que estemos la mayoría, porque.
+
+02:38:09.000 --> 02:38:14.000
+Por lo menos para que vengan y puedan, como se dice, sacarse las dudas en el último after.
+
+02:38:14.000 --> 02:38:42.000
+Damos poquitos. Y es como yo estaba en momentos. Era como era difícil, porque si no tenía a quién responder una duda, yo no puedo adivinar si tienen dudas o no, entonces si no hay nadie diciéndome que nadie tiene dudas yo avanzo y es como que por ahí después tienen dudas y como bien por eso a mí me da.
+
+02:38:42.000 --> 02:38:49.000
+Así que hagamos esto.
+
+02:38:49.000 --> 02:39:01.000
+¿Alguien se quiere tomar el trabajito, por favor de pagos, ya le tiraba la pelota, Algo ¿no?
+
+02:39:01.000 --> 02:39:09.000
+De más o menos hablar entre ustedes, coordinar un horario que les quede cómodo el día jueves.
+
+02:39:09.000 --> 02:39:13.000
+Y el.
+
+02:39:13.000 --> 02:39:21.000
+Caminando.
+
+02:39:21.000 --> 02:39:51.000
+Háblenlo entre ustedes. Eso sí, no voy a conectarme a las 11 de la noche porque solo Dios se va a conectar a las 11 de la noche a ver y yo después de las entre las 6 y las 9 no miércoles no puedo porque tengo una Comisión y puedes hacerla el martes pero el martes es como también era la misma la idea es que el jueves para que puedan avanzar en sus proyectos así
+
+02:39:52.000 --> 02:40:03.000
+vienen con las dudas. Y viernes es muy sobre la obra porque el sábado tiene clase y tienen entrega.
+
+02:40:03.000 --> 02:40:10.000
+Es que así que si pueden organizarse, me dicen, si yo me la adapto.
+
+02:40:10.000 --> 02:40:17.000
+Para que por lo menos estemos la mayoría y se quede la menor cantidad de gente posible afuera.
+
+02:40:17.000 --> 02:40:20.000
+Sí.
+
+02:40:20.000 --> 02:40:28.000
+Porque yo sé que van a tener complicaciones. Es normal. Y si yo les puedo tirar un centro.
+
+02:40:28.000 --> 02:40:38.000
+Les parece. Ahora, después? Me.
+
+02:40:38.000 --> 02:40:46.000
+Porque ahora vamos a estar perdiendo tiempo entre sí. Hasta ahora no. Kayak. Entonces me ayudó.
+
+02:40:46.000 --> 02:40:49.000
+Tampoco.
+
+02:40:49.000 --> 02:40:57.000
+Bueno, avancemos chicos que el.
+
+02:40:57.000 --> 02:41:18.000
+Lo que lo aquí, llamados segunditos para mí.
+
+02:41:18.000 --> 02:41:22.000
+Ahí va.
+
+02:41:22.000 --> 02:41:32.000
+Me dicen ahí chicos. Si ven la pantalla, por favor.
+
+02:41:32.000 --> 02:41:41.000
+Genial Genial! Después de ir a un pequeño break de mucha fiaca, ganas de ir a dormir, la siesta es una clase bastante chil, también.
+
+02:41:41.000 --> 02:41:54.000
+Así que hoy es esto chino, pues vamos a ver herramientas nada más. Así que, por suerte, si tienen dudas de Git, después también lo vemos y he dejado.
+
+02:41:54.000 --> 02:42:03.000
+¿qué es Gid. Hab: mira, ahí. Fran Gracias. Después me pasan que alguien me dio el horario y lo organizamos dudas de la clase pasada.
+
+02:42:03.000 --> 02:42:14.000
+Arre bien. ¿Y si qué es? Es una red social, pero no es una red social.
+
+02:42:14.000 --> 02:42:21.000
+Al estilo Facebook. No le voy a instalar por Twitter. O, bueno, ya es más Twitter, sino es una red social para programadores, ¿sí?
+
+02:42:21.000 --> 02:42:51.000
+Y el ha evolucionado demasiado. Sí que nació por allá en 2 008, 9 en San Francisco, Estados Unidos, si bien hay otras plataformas que son como hija Big Back Youtube es la más popular sí ya hoy en día es como que si exigente cualquier persona que más o menos indaga en el mundo de la programación o el mundo haití a ha sí vieja es una red social donde vamos a poder
+
+02:42:52.000 --> 02:43:05.000
+compartir código. Vamos a poder subir proyectos, aplicaciones. Y, lo más importante es poder compartirlo. Sí, podemos tener nuestros repositores.
+
+02:43:05.000 --> 02:43:35.000
+Vamos a tener nuestros repositorios online, Vamos a seguir nuestros proyectos y yo puedo compartir mi proyecto con cualquiera de ustedes y ustedes conmigo y cualquiera de sus compañeros se podría decir que es como si se puede decir, una especie de vence pero para programadores y el club tiene muchas muchas herramientas que facilitan y brindan apoyo a los programadores lo Bueno, que tiene ya todos sabrán podemos
+
+02:43:38.000 --> 02:43:48.000
+desplegar nuestro sitio web. ¿Qué quiere decir esto? ¿Qué podemos subir nuestro proyecto y verlo? Puedo compartir el link.
+
+02:43:48.000 --> 02:44:08.000
+Ustedes pueden ver un sitio web como yo. Puedo ver su sitio web, pero bueno, vamos a ir a aquel que ya tenga cuenta, y se toma un pequeño brazo, ayuda a cerrar sesión Tuki.
+
+02:44:08.000 --> 02:44:17.000
+Sí, Sí, acá. Les pasa el link. Chicos.
+
+02:44:17.000 --> 02:44:24.000
+Y vamos a ver lo linda que es el sitio web de Githow.
+
+02:44:24.000 --> 02:44:35.000
+Me avisan cuando estén entrando. Y vamos si vamos a ir paso a paso, también.
+
+02:44:35.000 --> 02:44:40.000
+Entender cómo funciona el disco les va a brindar las herramientas para poder trabajar en equipo. También.
+
+02:44:40.000 --> 02:45:10.000
+Chicos. Bien, una vez ya ingresan. Vamos al gato y acá y vamos a crear nuestra cuenta. Sí, esto es importante, tratemos de luchar nombres de usuarios profesionales sin nada algo puede ser mejor y todas esas cosas la diferencia entre Getlab y Edwards es que desconozco cómo funciona Bien, gilda pero es más empresarial eso siempre me manejé con gafas así que desconozco
+
+02:45:15.000 --> 02:45:23.000
+sé que funcionan de la misma forma. Ahora, ¿qué tipo de funcionalidades tiene? A diferencia de Gilhap, no soy el correcto.
+
+02:45:23.000 --> 02:45:27.000
+Después podríamos ver cuál sería la diferencia.
+
+02:45:27.000 --> 02:45:36.000
+Entre 1 y otro. Bien, alguien tiene ganas de compartir pantalla. Yo ya tengo cuentas y que me tiene mucho sentido que lo haga porque me va a tirar error.
+
+02:45:36.000 --> 02:45:46.000
+Alguien quiere compartir acá. Es indistinto a ver si tiene Mark Windows: Sí, este esto es así.
+
+02:45:46.000 --> 02:45:58.000
+Cuando yo digo, quieren compartir. Y el que comparta es el que gana.
+
+02:45:58.000 --> 02:46:11.000
+Un poquito aquí.
+
+02:46:11.000 --> 02:46:24.000
+Hay te hace rato. Lo que vemos es, por favor, saben que mientras más pestañas tienen, más les consume memoria de la computadora y más lento se les hace.
+
+02:46:24.000 --> 02:46:30.000
+Photoshop Adopc, Illustrator Chrome con siempre está en la nueva.
+
+02:46:30.000 --> 02:46:40.000
+Te vas, están dando de onda. La contraseña te va a decir si es buena o mala.
+
+02:46:40.000 --> 02:46:49.000
+No, no le dé ese clic a verificarlo a menos que si quieres verificar.
+
+02:46:49.000 --> 02:46:55.000
+Tu contraseña ha cambiado la pantalla. Bien, me das para continuar.
+
+02:46:55.000 --> 02:47:01.000
+Y ahí te va a preguntar si quieres recibir mails. Como siempre, debes del producto a lo que es.
+
+02:47:01.000 --> 02:47:17.000
+Git Jap. Bien, vas a verificar el puzzle para saber si sos una persona o no le hace clic a verificar.
+
+02:47:17.000 --> 02:47:24.000
+Tienes que mover la cortadora de pasta en dirección a los deditos.
+
+02:47:24.000 --> 02:47:32.000
+Con la flechita. Se va eligiendo a ver si yo es un robot o no.
+
+02:47:32.000 --> 02:48:02.000
+Consulta. El nombre de Hitchcock puede ser. Cualquiera tiene que ser profesional. Mati el nombre. Por favor, bien, ya vas a crear cuenta y te va a mandar un mail Sí, con un código así que fíjate y y cuando te llegue lo completas Sí, traten de que sea lo más profesional posible porque esa es su carta de presentación también.
+
+02:48:13.000 --> 02:48:18.000
+Listo. Bien. Acá. Estefa me va a le va a hacer una serie de preguntas para más que nada para organizar el contenido.
+
+02:48:18.000 --> 02:48:38.000
+Vamos a darle Steve Personalization porque todo lo que le pregunta no tiene sentido si vas a trabajar sola y bien tefa bienvenida a Guillermo.
+
+02:48:38.000 --> 02:48:46.000
+Listo. ¿Puedes dejar de compartir? Ya tienes tu cuenta. Ahora vamos a hacer una pequeña review.
+
+02:48:46.000 --> 02:49:11.000
+Pero yo también yo le digo, y yo tengo y aplicaciones. Tengo discos de Spotify Jajaja es que, aunque no para los que no sabían, zoom con una banda chicos al punto de que para que funcione cuando se comparte pantalla, te te cierra cosas.
+
+02:49:11.000 --> 02:49:15.000
+Bien.
+
+02:49:15.000 --> 02:49:29.000
+Ojalá chicos no estaría. Acá Hay máquina de compartir pantalla. Todos han podido crear su cuentita.
+
+02:49:29.000 --> 02:49:48.000
+Le dan Esqui personalization ahí abajo para iniciar sesión.
+
+02:49:48.000 --> 02:50:07.000
+Son. Bien, Bien, vamos a compartir pantalla 2 y que de 2 s. Gracias.
+
+02:50:07.000 --> 02:50:13.000
+Bien.
+
+02:50:13.000 --> 02:50:22.000
+En estamos. Este es mi feedback. Si.
+
+02:50:22.000 --> 02:50:27.000
+En base a la gente que me sigue y a las cosas que yo sigo le doy, like y demás, ¿Sí?
+
+02:50:27.000 --> 02:50:35.000
+Así que así se ve el Feed con todas las cosas, una especie de Fit de Instagram.
+
+02:50:35.000 --> 02:50:45.000
+Básicamente, bien, acá. Vamos a tener repostería. Voy a tener repositorios, si ustedes no de lo que he hecho últimamente y demás.
+
+02:50:45.000 --> 02:50:59.000
+Bien, vamos a darle clic acá arriba. Ustedes van a tener su foto? Bueno, no van a tener su foto, van a tener una foto cualquiera y vamos a ir a profit o settings.
+
+02:50:59.000 --> 02:51:29.000
+Sí, acá pueden cambiarse el nombre de fotos. ¿Pueden poner su vídeo, sus redes sociales. ¿Sí? Y bueno, después, bueno, la apariencia acá pueden elegir el tema con la combinación de colores que les gusten los emojis eso después se encargarán ustedes pueden yo me hablo tranquilamente.
+
+02:51:29.000 --> 02:51:34.000
+Bien. Y después vamos a ir a nuestro perfil.
+
+02:51:34.000 --> 02:51:43.000
+Pueden crear también su propia personalización. Sí, para la gente que entra a su perfil, pueda ver todo lo que han hecho.
+
+02:51:43.000 --> 02:51:49.000
+Si todas las contribuciones, los comics.
+
+02:51:49.000 --> 02:52:19.000
+Y todas las cosas que se han encargado, las redes acá va a estar al perfil. Las organizaciones en las que han trabajado han estado y un montón de cositas al principio va a estar medio vacío porque no tienen nada todavía y después acá Bueno, acá se ven los repositorios que tienen todas las repositorios que van a tener que pueden jugar y vamos a tener una banda Bien, qué vamos a hacer vamos a crear un
+
+02:52:20.000 --> 02:52:32.000
+repositorio. Pero antes, todos han creado su cuenta.
+
+02:52:32.000 --> 02:52:39.000
+Sí, bien. Tenemos muchas formas de.
+
+02:52:39.000 --> 02:52:46.000
+Cómo se llama de crear un repositorio.
+
+02:52:46.000 --> 02:53:00.000
+Vamos a ver cuáles son. Primero, tenemos acá un botoncito más. Sí que dice. ¿Podemos crear un repositorio acá o acá tenemos un botoncito verde, ¿sí?
+
+02:53:00.000 --> 02:53:20.000
+Vamos a darle clic ahí y vamos a ver qué nos pasa. Acá Tenemos al dueño en este caso, voy a hacer yo, y el nombre del repositorio puede ser cualquiera, así que vamos a ver, lo siguiente, por ejemplo, no vamos a decirle primer reto y acá nos va a decir si existe.
+
+02:53:20.000 --> 02:53:42.000
+O no el nombre, Podemos poner el repositorio público o privado Si lo ponemos privado, sólo la gente que nosotros elijamos, lo va a poder ver los repositorios públicos los pueden ver cualquiera sí una vez que le pusimos el nombre le damos a clic la repository y ya estamos.
+
+02:53:42.000 --> 02:54:02.000
+Bien. Y acá. Vamos a ver una serie de pasos para que para conectar mi hija mirepo local que con qué repo con el red online que tenemos en Hitchcock, se entiende.
+
+02:54:02.000 --> 02:54:09.000
+Vamos hasta acá.
+
+02:54:09.000 --> 02:54:20.000
+Bien, Bien, Bien, Bien, Bien, veamos. Vamos a analizar qué es lo que nos dice. Vamos a hacer un chico que tenemos acá.
+
+02:54:20.000 --> 02:54:29.000
+Esto no le den cosa acá Este comando que hacía, se acuerdan.
+
+02:54:29.000 --> 02:54:38.000
+Inicializa en teoría, cuando trabajamos con 1 repositorio, nos dice una serie de pasos que podemos evitar si queremos.
+
+02:54:38.000 --> 02:54:47.000
+Yo ya hice el gigante, entonces no hace falta. Ya hice el cómic, No me hace falta.
+
+02:54:47.000 --> 02:54:58.000
+Este Git Branch M. Maine es para cambiar el nombre de la rama principal. Deja de ser máster y pasa a ser Main.
+
+02:54:58.000 --> 02:55:05.000
+Si yo lo voy a copiar. Y ahora ya no se llama más máster. Si no te vas a llamar, se llama Main.
+
+02:55:05.000 --> 02:55:14.000
+Este comando lituano ad olshing es nuestro link. De Nicaragua. Si es el límite del repositorio.
+
+02:55:14.000 --> 02:55:24.000
+Con esto. Vamos a conectarlo. Copiamos y pegamos bien. Luego tenemos un nuevo comando.
+
+02:55:24.000 --> 02:55:33.000
+Gith Bush. You origen, Main, Analicemos un poco esto: jet post va a ser que pusear.
+
+02:55:33.000 --> 02:55:38.000
+No empuja a todos los cambios que hemos hecho todos nuestros comics.
+
+02:55:38.000 --> 02:55:47.000
+A dónde, qué rama?
+
+02:55:47.000 --> 02:55:54.000
+Agarraba. Yo puedo trabajar otra rama y hacerle enfusiones, cambios o modificaciones a otras ramas.
+
+02:55:54.000 --> 02:56:07.000
+Sí como con ese nombre. Por ejemplo, si yo tenía, quiero subir los cambios de mi nueva rama entre comillas, sería Geat Bush, un guion u Horizon nueva Rama.
+
+02:56:07.000 --> 02:56:14.000
+Bien, creo que no hice el comic, así que vamos a hacer un cómic de nuevo.
+
+02:56:14.000 --> 02:56:26.000
+Veamos qué es lo que va a modificarse, ver acá. Está. Nos dice los últimos, vamos a hacerlo Bitcoin.
+
+02:56:26.000 --> 02:56:31.000
+Y ya.
+
+02:56:31.000 --> 02:56:45.000
+Y vamos a hacer chicos Ahora, chicos ¿Se acuerdan después del gitano que venía.
+
+02:56:45.000 --> 02:56:50.000
+Edith Comic. Ahora sirve.
+
+02:56:50.000 --> 02:56:58.000
+Y a Git, y vamos a abrir.
+
+02:56:58.000 --> 02:57:13.000
+No comandos sus derramas a la vista. Listo, Ahora vamos a hacer Gi Push guion u horizon Man.
+
+02:57:13.000 --> 02:57:20.000
+Y veamos la magia.
+
+02:57:20.000 --> 02:57:28.000
+Y ahora yo recargo acá. Elpo.
+
+02:57:28.000 --> 02:57:37.000
+Y tenemos nuestro trabajo, nuestro proyecto.
+
+02:57:37.000 --> 02:57:47.000
+Se entendió igual. Ahora después lo volvemos a hacer, pero se ve. Analicemos un poco lo que tenemos acá.
+
+02:57:47.000 --> 02:58:12.000
+Acá tenemos nuestros archivos. Si acá la persona que hizo el cómic, el nombre del comic, el hash, la fecha, si nosotros me pongo rival, va a decir la fecha exacta sí, 27 de enero 20 24 las 2 33 pm con el huso horario que tengo yo y veamos el historial de cómics.
+
+02:58:12.000 --> 02:58:20.000
+Y acá. Tenemos el historial de comida. Muchachos.
+
+02:58:20.000 --> 02:58:30.000
+Hash se lleva una contraseña lady.
+
+02:58:30.000 --> 02:58:40.000
+Por eso yo usen nombres profesionales que estén bien redactados. Los cómics.
+
+02:58:40.000 --> 02:58:45.000
+Y con esto no nos pueden mentir.
+
+02:58:45.000 --> 02:58:52.000
+Con esto. Pueden mentir al tutor diciendo: yo ya subí los cambios.
+
+02:58:52.000 --> 02:58:58.000
+No, ¿no? Y es.
+
+02:58:58.000 --> 02:59:03.000
+A ver.
+
+02:59:03.000 --> 02:59:15.000
+Bien, Veamos qué tenemos. Acá. Pagáis seme. Si yo le doy clic, acaba de desplegar todas las ramas que tenemos disponibles en nuestro proyecto.
+
+02:59:15.000 --> 02:59:24.000
+En este caso solamente acá. Nos dice la cantidad de ramas. Podemos buscar un y después acá me veamos esto acá.
+
+02:59:24.000 --> 02:59:36.000
+Dice code, si yo les puedo compartir a través de esto, link.
+
+02:59:36.000 --> 02:59:45.000
+Pero esto es para clonarlo. Si quieren saber cómo clonar un reto y qué sería clonar un reto.
+
+02:59:45.000 --> 02:59:58.000
+Chicos, por ejemplo, tanto en equipo, el Repor, que van a estar trabajando ustedes para la aplicación del producto.
+
+02:59:58.000 --> 03:00:09.000
+No lo van a tener ustedes? Generalmente van a ser colaboradores de esa aplicación? Sí, Entonces, ¿qué va a pasar?
+
+03:00:09.000 --> 03:00:34.000
+Va a tener que clonar el récord. Y cuando clonamos el reto, quiere decir que nos traemos toda la información contra los cómics, todo lo que está en el proyecto, lo traemos, a nuestro dónde a nuestro propósito, la local a nuestra computadora, como que lo actualizas, a qué te referís cómo se actualiza, sería.
+
+03:00:34.000 --> 03:00:41.000
+No sé cómo, una vez que yo ya terminé de trabajar.
+
+03:00:41.000 --> 03:00:46.000
+Vamos a a este paso.
+
+03:00:46.000 --> 03:01:00.000
+Algo más.
+
+03:01:00.000 --> 03:01:08.000
+Bien, ¿qué vamos a hacer nosotros? Normalmente guitar Bit Comit y después el Git Bush.
+
+03:01:08.000 --> 03:01:19.000
+Sí preparamos el entorno, todos los cambios, las modificaciones, le damos nombre y la subimos al reto.
+
+03:01:19.000 --> 03:01:27.000
+No entiende.
+
+03:01:27.000 --> 03:01:31.000
+Son los 3 cambios.
+
+03:01:31.000 --> 03:01:43.000
+Santi: Yo te pregunto: vos para cocinar? Una milanesa? ¿Quién es el qué haces Ponerse en la sartén con el aceite?
+
+03:01:43.000 --> 03:01:48.000
+Sí. Metés, La milanesa, la sacás.
+
+03:01:48.000 --> 03:01:55.000
+Y la preparas para comer No.
+
+03:01:55.000 --> 03:02:02.000
+Bueno, cuando estás preparando para comer, ya le estás haciendo un cómic, por ejemplo, y push en la comité.
+
+03:02:02.000 --> 03:02:15.000
+Y no es que le tenés que dar un nuevo nombre de rama. Te lo sugiere. Yo lo hice para que se vea. Qué pasa con ese comando, cómo puedes seguir trabajando con tu rama master tranquilamente.
+
+03:02:15.000 --> 03:02:23.000
+Es opcional. No va a cambiar en nada el nombre de la rama principal, ya sea master o main.
+
+03:02:23.000 --> 03:02:45.000
+Claro, acá. Yo puse nombre de ramas porque por ahí, bueno, vas a hacer el push directamente a master maine, sino que vas a hacer el pulso a donde a tenés que hacer una nueva funcionalidad y vas a hacer una rama y lo que vamos a hacer es lo siguiente vas a crear una rama en tu proyecto y la vas a pulsar.
+
+03:02:45.000 --> 03:02:51.000
+Pero esto no es solo la magia de Hitchcock. Veamos qué mantiene.
+
+03:02:51.000 --> 03:03:00.000
+Si si vinimos a ellos, venimos, acá, vamos al pie. Se pueden clarillos que serían como foro de discusión del proyecto.
+
+03:03:00.000 --> 03:03:07.000
+Hay muchos repositorios en Hitchcock de aplicaciones de frameworks y de cosas que son open source y que están a la libre libre libre uso de la gente.
+
+03:03:07.000 --> 03:03:37.000
+Entonces ustedes pueden a abrir un tema de discusión para sacarse una duda, o si hay algún problema para que haya a ver si hay alguna solución, Sí, luego, en público, es que acá es donde ustedes cuando están trabajando en equipo van a estar haciendo estos Pr: como se les conoce y quién va a aceptar el público es quien es el líder de equipo si a través de esta pestaña es donde liar equipo hace el merche a la
+
+03:03:41.000 --> 03:03:48.000
+rama principal. Si ustedes, cuando mandan esto, van a hacer el Pr.
+
+03:03:48.000 --> 03:03:55.000
+Pongamos el sencillo, por ejemplo, Tuki Tuki.
+
+03:03:55.000 --> 03:04:04.000
+Bueno, ahora no tengo nada, pero va a una rama con la la rama que vayamos a hacer del messo.
+
+03:04:04.000 --> 03:04:18.000
+Y obviamente, el repos está configurado. No se nos va a dejar hacer el Mesh, porque eso se tiene que incorporar a alguien más, sí que es el que se va a encargar de comparar el Código revisarlo y chequear que esté realmente funcionando.
+
+03:04:18.000 --> 03:04:28.000
+¿Sí? Después esto de acá. Acá. Tenemos los actions que esto es más para automatización y otras cosas que ustedes no lo van a aprender ahora.
+
+03:04:28.000 --> 03:04:38.000
+Así que no le den mucha idea, mucho. Uso mucha importancia. Siempre, bueno, vamos a algo importante.
+
+03:04:38.000 --> 03:04:49.000
+Vamos a settings. Yo voy a ir acá donde dice Beige.
+
+03:04:49.000 --> 03:04:55.000
+Sí, y acaba de decir algo. Se llama Boy Bill Andy Playment. ¿Qué vamos a hacer? Vamos a venir acá?
+
+03:04:55.000 --> 03:05:02.000
+Donde dice Branch, ¿no? Y vamos a elegir la rama.
+
+03:05:02.000 --> 03:05:07.000
+Vamos a ver a 6.
+
+03:05:07.000 --> 03:05:37.000
+Vamos a llenar récord. Y vamos a ver que ahora qué está pasando con nuestro repositorio? ¿Qué es lo que hay ahora? Que hace un rato, una vida?
+
+03:05:40.000 --> 03:06:00.000
+¿Qué es lo que hay ahora que hace un rato Navidad.
+
+03:06:00.000 --> 03:06:07.000
+Bueno, no, Bueno, vamos a salir acá Vamos a ver que tenemos algo que es una lujo verde naranja.
+
+03:06:07.000 --> 03:06:18.000
+Qué mal que estoy Y vamos a ver qué pasa. Vamos a ir acá. Donde se hizo Alpei. Ahora.
+
+03:06:18.000 --> 03:06:48.000
+Y vamos a ver.
+
+03:06:53.000 --> 03:07:09.000
+¿Ven lo que pasó?
+
+03:07:09.000 --> 03:07:15.000
+Desplegamos nuestro sitio web, nuestro proyecto.
+
+03:07:15.000 --> 03:07:34.000
+Entran ahí chicos al link que les acaba de pasar.
+
+03:07:34.000 --> 03:07:46.000
+Sí, Así pueden ver un montón de sitios web. Hicieron su primer sitio web. De esta manera.
+
+03:07:46.000 --> 03:07:56.000
+No lean que tocaste, vamos de nuevo, vamos allá settings settings en el proyecto.
+
+03:07:56.000 --> 03:08:09.000
+Está. Está en asista online en un servidor, vamos a ir a y acá ningún lado te pide un dominio, más o menos que lo necesite.
+
+03:08:09.000 --> 03:08:13.000
+Si quieras?
+
+03:08:13.000 --> 03:08:20.000
+Pero si no te pide.
+
+03:08:20.000 --> 03:08:28.000
+No está. Es el settings del proyecto. Esto sí, porque es por cada proyecto.
+
+03:08:28.000 --> 03:08:39.000
+Y pues, vamos a hacer algo más interesante. También es una.
+
+03:08:39.000 --> 03:08:43.000
+Yo me.
+
+03:08:43.000 --> 03:09:13.000
+Voy a apretar el punto.
+
+03:09:19.000 --> 03:09:29.000
+No. Santi: Sí, Ahí empiezan los errores.
+
+03:09:29.000 --> 03:09:39.000
+Ahora empiezan los errores. Sí, los errores de ruta, los errores con los nombres, los espacios.
+
+03:09:39.000 --> 03:09:43.000
+Ahora empieza a molestar.
+
+03:09:43.000 --> 03:09:58.000
+Sí. ¿Por qué recordemos que si está bien limpiado todo va a funcionar correctamente, pero si no se lo está, no saben, los estilos no se puede navegar.
+
+03:09:58.000 --> 03:10:10.000
+Sí. Por eso yo les digo: siempre no utilicen espacios, producen caracteres especiales, No usen la observe.
+
+03:10:10.000 --> 03:10:24.000
+Porque eso pasa. Sí, es muy sensible y todos los servidores saben en general, cuando van a subir su proyecto, su trabajo siempre tienen que estar bien limpiados.
+
+03:10:24.000 --> 03:10:33.000
+Las cosas y los imports y todas las cosas, porque si no no anda correctamente.
+
+03:10:33.000 --> 03:10:38.000
+Bien.
+
+03:10:38.000 --> 03:10:43.000
+Tenemos un editor online con Whatsapp apretando el punto en cualquier repositorio.
+
+03:10:43.000 --> 03:10:46.000
+Podemos ver el código.
+
+03:10:46.000 --> 03:10:53.000
+Y veamos esto acá.
+
+03:10:53.000 --> 03:11:06.000
+Recibe peces, es decir, no porque no tengo nada.
+
+03:11:06.000 --> 03:11:18.000
+Facebook Gusta punto Html. Vamos a copiar esto.
+
+03:11:18.000 --> 03:11:39.000
+Acá también tenemos y vamos a salir hacia atrás. Index punto Html: Vamos a poder. Y el punto Html.
+
+03:11:39.000 --> 03:11:44.000
+Y acá en Gir. Vamos a hacer esto.
+
+03:11:44.000 --> 03:11:59.000
+Acá se gusta cada sabio, y acá vamos a poder Index Punto.
+
+03:11:59.000 --> 03:12:13.000
+No vamos a sí de la siguiente forma vamos a venir acá. Si si yo cierro la pestaña, me va a decir no, bueno.
+
+03:12:13.000 --> 03:12:39.000
+A ver, ni siquiera me A no, no le importa. Ahora.
+
+03:12:39.000 --> 03:12:54.000
+Bueno, no importa, podríamos hacer cambios. Acá Podemos hacer cambios desde acá del mismo Beathop.
+
+03:12:54.000 --> 03:12:58.000
+El ritmo del proyecto. Chicos.
+
+03:12:58.000 --> 03:13:07.000
+Qué es el ritmo del proyecto? El ritmo del proyecto es la explicación de cómo funciona su aplicación.
+
+03:13:07.000 --> 03:13:21.000
+Su proyecto. Su trabajo. Es muy importante que todo proyecto que hagan esté documentado yo para que lo quieran hacer para que lo quiera hacer con su proyecto, porque lo van a terminar haciendo.
+
+03:13:21.000 --> 03:13:27.000
+Es usar esta herramienta.
+
+03:13:27.000 --> 03:13:43.000
+Con esta herramienta podemos generar un montón de cosas si el ritmo de una aplicación, Yo lo utilizo porque me ayuda a organizarme y me tiene con ejemplos como editar para que se vea bien, sí vamos a ver otra aplicación.
+
+03:13:43.000 --> 03:13:48.000
+De ejemplo.
+
+03:13:48.000 --> 03:13:55.000
+Se acaba.
+
+03:13:55.000 --> 03:14:01.000
+Para que vean tuki tukituki No es.
+
+03:14:01.000 --> 03:14:08.000
+Y yo lo había hecho a ver.
+
+03:14:08.000 --> 03:14:16.000
+¿no? Bueno, obviamente no es suscriptor, y toca acá. Este sitio.
+
+03:14:16.000 --> 03:14:23.000
+Bien acá. Por ejemplo, es todo esto. Acá. Se va a ver cómo funciona y cómo está organizado.
+
+03:14:23.000 --> 03:14:33.000
+Sí. Por eso es importante tener el ritmo bien completo en cualquier aplicación.
+
+03:14:33.000 --> 03:14:40.000
+No haga.
+
+03:14:40.000 --> 03:15:07.000
+Bien alguna duda de cómo está funcionando Hitchcock por atrás. Veamos algo interesante. Ahora sí, yo le agregué el ritmo de dónde le agregué el ritmo.
+
+03:15:07.000 --> 03:15:17.000
+Desde guindos. O sea que yo mi proyecto no lo tengo.
+
+03:15:17.000 --> 03:15:46.000
+Bien, vamos a hacer esto. Vamos a seleccionar para guardar los cambios de los nuevos comandos, pero no sin antes hacer esto.
+
+03:15:46.000 --> 03:15:54.000
+Acá también.
+
+03:15:54.000 --> 03:16:05.000
+Vamos a copiar esto. Acá? ¿Qué vamos a poner? ¿Estamos haciendo así?
+
+03:16:05.000 --> 03:16:09.000
+Y acá vamos a volver.
+
+03:16:09.000 --> 03:16:18.000
+Bien. Ahora lo que vamos a hacer es agarrar este Css.
+
+03:16:18.000 --> 03:16:28.000
+Y le vamos a pegar la cara.
+
+03:16:28.000 --> 03:16:34.000
+Ahora si le divisar ahora de nuevo para guardar todos los cambios.
+
+03:16:34.000 --> 03:16:48.000
+Y vamos a hacer. Agregué, nos comamos y actualice los links.
+
+03:16:48.000 --> 03:17:02.000
+Bien hasta normal, no ahora. ¿Qué tendría que hacer en base a lo que hicimos hasta el momento?
+
+03:17:02.000 --> 03:17:17.000
+El push vamos. Bip: Bush.
+
+03:17:17.000 --> 03:17:21.000
+¿Qué pasó?
+
+03:17:21.000 --> 03:17:36.000
+¿Qué dice? Nada. Error rechazado? Sí, Sí, el pulsera algunas referencias a nuestro contenido a este repositorio.
+
+03:17:36.000 --> 03:17:52.000
+Sí se rechazaron el repositorio remoto. Contiene trabajo que yo localmente no tengo. ¿Qué sería eso que localmente no tengo. Pero mi repo online sí.
+
+03:17:52.000 --> 03:18:03.000
+El ritmo. Este es el primer problema que tenemos cuando trabajamos en in equipo. Básicamente, cuando trabajamos en equipo.
+
+03:18:03.000 --> 03:18:11.000
+¿qué va a pasar? Por estaba trabajando Stephanie legal y yo, en un proyecto, cada 1 en los suyos.
+
+03:18:11.000 --> 03:18:21.000
+Yo termino primero en el proyecto, o sea, lo que es mi tarea. Hago el push. ¿Qué pasa cuando lean o steffi ¿Quieren hacer su push.
+
+03:18:21.000 --> 03:18:27.000
+Mis cambios no estaban hace un ratito cuando ellos empezaron a trabajar.
+
+03:18:27.000 --> 03:18:31.000
+Están los.
+
+03:18:31.000 --> 03:18:37.000
+Yo, como esos cambios no estaban en mi proyecto local, pero sin el online, me las tengo que traer.
+
+03:18:37.000 --> 03:18:43.000
+Como me traigo esos cambios con Githpool.
+
+03:18:43.000 --> 03:18:54.000
+Sí con Get Tool. Me traigo los cambios de forma del remoto del repositorio remoto al local.
+
+03:18:54.000 --> 03:19:06.000
+¿Y qué tenemos acá ahora?
+
+03:19:06.000 --> 03:19:11.000
+Se lo trajo básicamente.
+
+03:19:11.000 --> 03:19:16.000
+Pero qué pasa? ¿Está bien. ¿Vos ¿Te trajiste los cambios? ¿Puede existir un conflicto?
+
+03:19:16.000 --> 03:19:21.000
+Veamos. Vamos a hacer esto.
+
+03:19:21.000 --> 03:19:32.000
+Vamos a hacer esto. Primero, vamos a hacer ahora el virtuoso a ver si nos dice algo, a ver qué nos dice.
+
+03:19:32.000 --> 03:19:44.000
+Pero no dijo nada si ya está. Pero veamos ahora si vamos al primer reto.
+
+03:19:44.000 --> 03:19:52.000
+Vamos a Piscis. Y venimos ahí. Sí, podemos editar el archivo acá. Mismo.
+
+03:19:52.000 --> 03:20:04.000
+Y vamos a agregar algo nuevo. Vamos a modificarnos este. Vamos a poner no nombre de la rama como para que se vea así.
+
+03:20:04.000 --> 03:20:11.000
+Update It. Estábamos en.
+
+03:20:11.000 --> 03:20:20.000
+Y qué va a pasar?
+
+03:20:20.000 --> 03:20:33.000
+Vamos a hacer ahora un gitpool.
+
+03:20:33.000 --> 03:20:43.000
+Y vamos a ver algo interesante.
+
+03:20:43.000 --> 03:20:46.000
+¿Por qué?
+
+03:20:46.000 --> 03:20:53.000
+¿Qué pasó?
+
+03:20:53.000 --> 03:20:58.000
+Qué pasó? No.
+
+03:20:58.000 --> 03:21:08.000
+Qué fue lo que?
+
+03:21:08.000 --> 03:21:22.000
+Me cambió el contenido, chicos. Yo cambié el contenido. Acá Cuando hice el gato, no preguntó, ¿está el nombre acá.
+
+03:21:22.000 --> 03:21:37.000
+Y como si eso te pudo haber borrado el trabajo.
+
+03:21:37.000 --> 03:21:43.000
+Me entendí. Santi.
+
+03:21:43.000 --> 03:21:52.000
+Si me puedes tirar un poquito más de info, te puedo ayudar.
+
+03:21:52.000 --> 03:22:06.000
+Bueno, si te borran algo en ese sentido, sí vamos a hacerlo a ver. Por ejemplo, venimos al capecismo, Vamos a ir.
+
+03:22:06.000 --> 03:22:10.000
+Y acá.
+
+03:22:10.000 --> 03:22:16.000
+Vamos a hacer esto. Vamos a borrar.
+
+03:22:16.000 --> 03:22:20.000
+Este.
+
+03:22:20.000 --> 03:22:30.000
+Y vamos a borrar. El Ted Center no es enorme.
+
+03:22:30.000 --> 03:22:35.000
+Este por el momento, no después lo agregamos.
+
+03:22:35.000 --> 03:22:43.000
+Del Kit. Aquí. ¿Qué va a pasar?
+
+03:22:43.000 --> 03:22:51.000
+Sí, acá. En teoría, tenemos nuestro guanche y no con lo que más borré. Así que vamos a hacer esto.
+
+03:22:51.000 --> 03:22:55.000
+Vamos. ¿Cómo se hace de nuevo Bitcoin?
+
+03:22:55.000 --> 03:23:04.000
+Y vamos.
+
+03:23:04.000 --> 03:23:09.000
+No borró.
+
+03:23:09.000 --> 03:23:39.000
+Claro, hay como ese look. Nosotros vamos a tener que acostumbrarnos a pasar por estas cosas, porque al principio es frustrante cuando estás trabajando y de golpe, tienes que hacer un git pool y ver que hay cosas que no estaban o ver qué cosas que estaban se cambiaron son cosas que no estaban que ahora sí que si estaban ya no generalmente quien acepta todos esos cambios.
+
+03:23:42.000 --> 03:24:09.000
+Es solo una persona, así que muy difícil, a menos que estén solos que puedan romper algo, pueden romperse, y siempre sí, sí, pero es complicado.
+
+03:24:09.000 --> 03:24:15.000
+Bien, veamos algo interesante que tenemos acá. Ahora.
+
+03:24:15.000 --> 03:24:28.000
+Nosotros por cada push que hacemos a nuestro repositorio. Nuestro link. Nuestro video se va a actualizar.
+
+03:24:28.000 --> 03:24:41.000
+Sí lo vamos a rechazar. Juanjo.
+
+03:24:41.000 --> 03:24:57.000
+Qué pasó? ¿Por qué no se ve el Css? Si yo lo pedía, alcancé.
+
+03:24:57.000 --> 03:25:18.000
+Está mal, entiende.
+
+03:25:18.000 --> 03:25:35.000
+Ojo, porque si ustedes suben su proyecto aguijón activa en Hitchcock, y no aparecen las imágenes.
+
+03:25:35.000 --> 03:25:46.000
+Y cuando dan click a un link, no aparece correctamente. Es por esto chicos. Lo mismo con las Css es por las rutas, verifiquenlas, siempre.
+
+03:25:46.000 --> 03:26:02.000
+Bien dudas, miedos, incertidumbres.
+
+03:26:02.000 --> 03:26:07.000
+No.
+
+03:26:07.000 --> 03:26:15.000
+Bien, vamos a un Break.
+
+03:26:15.000 --> 03:26:21.000
+Sí, Sí, No sé.
+
+03:26:21.000 --> 03:26:30.000
+No pasa nada. Por eso vamos a tener el after para que si pasa eso no llueve.
+
+03:26:30.000 --> 03:26:39.000
+Bueno, son las 3. Y 2. ¡Ay Dios.
+
+03:26:39.000 --> 03:26:48.000
+Pero hay que descargarse. Hay que llorar por todo. No son menos.
+
+03:26:48.000 --> 03:27:03.000
+Madura por solar. Bancamos llorar. Es de Es de bueno, Sí, no una siesta. Es difícil.
+
+03:27:03.000 --> 03:27:10.000
+Los sábados chicos son difíciles.
+
+03:27:10.000 --> 03:27:15.000
+Bueno, volvemos y cuarto, les parece.
+
+03:27:15.000 --> 03:27:20.000
+Y que.
+
+03:27:20.000 --> 03:27:31.000
+Bueno, la musiquita tuki y volvemos.
+
+03:27:31.000 --> 03:27:39.000
+Y y.
+
+03:27:39.000 --> 03:28:08.000
+Y más. No dice a ella a ese A y.
+
+03:28:08.000 --> 03:28:13.000
+Y.
+
+03:28:13.000 --> 03:28:18.000
+Y yo.
+
+03:28:18.000 --> 03:28:27.000
+No sé a A.
+
+03:28:27.000 --> 03:28:40.000
+A y a mí.
+
+03:28:40.000 --> 03:28:44.000
+De.
+
+03:28:44.000 --> 03:29:12.000
+Más 2 y a que es, y A.
+
+03:29:12.000 --> 03:29:22.000
+Este y se.
+
+03:29:22.000 --> 03:29:42.000
+Y por cuando voy a no me de agua A.
+
+03:29:42.000 --> 03:29:46.000
+No.
+
+03:29:46.000 --> 03:30:10.000
+Y a.
+
+03:30:10.000 --> 03:30:20.000
+Gracias.
+
+03:30:20.000 --> 03:30:24.000
+Pero me.
+
+03:30:24.000 --> 03:30:28.000
+Y.
+
+03:30:28.000 --> 03:30:33.000
+Parte de.
+
+03:30:33.000 --> 03:30:40.000
+Y.
+
+03:30:40.000 --> 03:30:44.000
+Gracias.
+
+03:30:44.000 --> 03:30:48.000
+Y.
+
+03:30:48.000 --> 03:31:00.000
+Gracias.
+
+03:31:00.000 --> 03:31:14.000
+Que ya me ha.
+
+03:31:14.000 --> 03:31:35.000
+Soy yo, y no de 4.
+
+03:31:35.000 --> 03:31:42.000
+Y es y.
+
+03:31:42.000 --> 03:31:47.000
+Sí, Sí.
+
+03:31:47.000 --> 03:31:55.000
+Y no este libro.
+
+03:31:55.000 --> 03:32:00.000
+Donde quiera.
+
+03:32:00.000 --> 03:32:14.000
+Esto es que o origen?
+
+03:32:14.000 --> 03:32:19.000
+Sí, Sí.
+
+03:32:19.000 --> 03:32:30.000
+Y y muy sí, sí.
+
+03:32:30.000 --> 03:32:45.000
+Lo que libra es ya y sí, y.
+
+03:32:45.000 --> 03:33:06.000
+Y ya, ¿Y si.
+
+03:33:06.000 --> 03:33:18.000
+Y es y que, y y A.
+
+03:33:18.000 --> 03:33:26.000
+Muy bien.
+
+03:33:26.000 --> 03:33:34.000
+De que.
+
+03:33:34.000 --> 03:33:50.000
+Y.
+
+03:33:50.000 --> 03:34:20.000
+Que yo me mucho, que que es, también he se ha. Vamos a, vamos a y.
+
+03:34:30.000 --> 03:34:35.000
+Vamos a?
+
+03:34:35.000 --> 03:35:01.000
+A si siempre me o yo, ya tu que se y y.
+
+03:35:01.000 --> 03:35:23.000
+Y a a las que me a no vamos a.
+
+03:35:23.000 --> 03:35:27.000
+Vamos a?
+
+03:35:27.000 --> 03:35:39.000
+Y a vamos a Este es a las.
+
+03:35:39.000 --> 03:36:09.000
+Me a 2 que no se ha y no es que.
+
+03:36:19.000 --> 03:36:23.000
+A nosotros.
+
+03:36:23.000 --> 03:36:38.000
+Hay que vamos a y.
+
+03:36:38.000 --> 03:36:45.000
+A y Y.
+
+03:36:45.000 --> 03:37:07.000
+A yo.
+
+03:37:07.000 --> 03:37:12.000
+Que y.
+
+03:37:12.000 --> 03:37:25.000
+Y.
+
+03:37:25.000 --> 03:37:49.000
+Por aquí el a la muy bien y no con mi muy bien.
+
+03:37:49.000 --> 03:37:58.000
+A ver.
+
+03:37:58.000 --> 03:38:05.000
+Ya.
+
+03:38:05.000 --> 03:38:16.000
+Y en las muy bien en el.
+
+03:38:16.000 --> 03:38:21.000
+2.
+
+03:38:21.000 --> 03:38:29.000
+Y si.
+
+03:38:29.000 --> 03:38:45.000
+Gracias.
+
+03:38:45.000 --> 03:38:52.000
+Y que sí para.
+
+03:38:52.000 --> 03:39:06.000
+Paso que y a.
+
+03:39:06.000 --> 03:39:11.000
+Y.
+
+03:39:11.000 --> 03:39:41.000
+Y a sí sí en o y es.
+
+03:39:52.000 --> 03:40:01.000
+Gracias.
+
+03:40:01.000 --> 03:40:17.000
+Ya. Gracias. Sí, Sí.
+
+03:40:17.000 --> 03:40:47.000
+Y que.
+
+03:41:25.000 --> 03:41:32.000
+Y.
+
+03:41:32.000 --> 03:41:42.000
+Bueno, volvemos.
+
+03:41:42.000 --> 03:42:12.000
+Estamos? ¿Dónde estamos chicos? Mira, estamos? Rays.
+
+03:42:15.000 --> 03:42:43.000
+Bueno, alguna duda de lo que es? No, Bueno, vamos a hacer lo siguiente.
+
+03:42:43.000 --> 03:42:51.000
+Para que quieras, vamos a hacer lo siguiente para la clase que viene.
+
+03:42:51.000 --> 03:43:02.000
+Tú. Y vamos a hacer esto.
+
+03:43:02.000 --> 03:43:09.000
+La clase que viene. Vamos a utilizar Know Shaders.
+
+03:43:09.000 --> 03:43:19.000
+Sí. Así que vamos a instalar esta herramienta para la clase que viene directamente. Tiremos magia.
+
+03:43:19.000 --> 03:43:31.000
+No séyes, vamos a empezar, y la clase que no vamos a trabajar con zas, sí para poder trabajar con zas.
+
+03:43:31.000 --> 03:43:39.000
+Vamos a necesitar instalar qué es? New Jersey. Es un manejador de paquetes de Javascript.
+
+03:43:39.000 --> 03:43:46.000
+Básicamente. Np: Medio no pacgemana management, que es lo que vamos a utilizar para poder trabajar.
+
+03:43:46.000 --> 03:43:53.000
+Vamos a instalar esta herramienta y la semana que viene vamos a profundizar en ella, ¿sí? Así que vamos a iniciar.
+
+03:43:53.000 --> 03:43:58.000
+Esto es para la gente de Windows y la gente de Mac. Ahora les muestro zas.
+
+03:43:58.000 --> 03:44:11.000
+Es una herramienta. Es un proceso, un preprocesador de Css, Css con superpoderes.
+
+03:44:11.000 --> 03:44:17.000
+Están o no vale darle.
+
+03:44:17.000 --> 03:44:44.000
+Si alguien quiere compartir los demás lo de Windows. Digo, lo hacemos en vivo y juntitos y los demás van a abrir la terminal y me qué grande te deja ver bien lo descargas ahí el windows está preguntado.
+
+03:44:44.000 --> 03:44:57.000
+Dónde lo quieres? Bueno de dar 3 Linux a ver. Perdón. Perdón, Dale, Like.
+
+03:44:57.000 --> 03:45:00.000
+Aceptar.
+
+03:45:00.000 --> 03:45:08.000
+Para aceptar mandarle, mandarle todo esto.
+
+03:45:08.000 --> 03:45:38.000
+¿ Mándale todo. Todo. No hay instante. ¿Va a pedir permiso.
+
+03:45:38.000 --> 03:45:48.000
+Tenés, un Ok, estés.
+
+03:45:48.000 --> 03:46:05.000
+No sé si bien da el mismo Vas a tirar esto sudo apetece. Estoy en el.
+
+03:46:05.000 --> 03:46:35.000
+Los Mac. ¿Alguno quiere compartir pantalla?
+
+03:46:43.000 --> 03:46:52.000
+Sí, Crees vas a brío.
+
+03:46:52.000 --> 03:46:58.000
+Así instal. No sé.
+
+03:46:58.000 --> 03:47:02.000
+Se me están ejecutando como nolito efe.
+
+03:47:02.000 --> 03:47:14.000
+A ver eso porque instalaste las herramientas ahora cancelarlo. Si puede ser ahora compartir pantalla.
+
+03:47:14.000 --> 03:47:21.000
+Mito. Cris una vez que ya tenías instalado, abrió. El resto. Es sencillo.
+
+03:47:21.000 --> 03:47:32.000
+Y.
+
+03:47:32.000 --> 03:47:46.000
+Si quieres dejar de compartir. Y vamos con ese a ver que instaló, por favor, si quieres compartir.
+
+03:47:46.000 --> 03:47:50.000
+Compartí todo, por favor.
+
+03:47:50.000 --> 03:47:57.000
+Control cedale igual.
+
+03:47:57.000 --> 03:48:04.000
+Control se.
+
+03:48:04.000 --> 03:48:10.000
+No hay que instalar las herramientas. No son necesarias para esto.
+
+03:48:10.000 --> 03:48:31.000
+Solamente necesitamos, no porque te agrega un montón de cosas que no tienen sentido, que no se.
+
+03:48:31.000 --> 03:48:35.000
+No puedes.
+
+03:48:35.000 --> 03:48:42.000
+La ventana. Digo.
+
+03:48:42.000 --> 03:48:45.000
+Ahí está.
+
+03:48:45.000 --> 03:48:52.000
+Bien, hay alguien que no haya instalado.
+
+03:48:52.000 --> 03:48:57.000
+Para que.
+
+03:48:57.000 --> 03:49:12.000
+Bueno, si puede tardar un ratito dependiendo de la compra, ni siquiera se preocupen, ¿vale? No sé qué tanto puede llegar a tardar, pero va bien.
+
+03:49:12.000 --> 03:49:18.000
+Bien cómo verificamos que esté todo correcto.
+
+03:49:18.000 --> 03:49:22.000
+Bueno, eso fue rapidísimo.
+
+03:49:22.000 --> 03:49:35.000
+Vamos a venir. Vamos a abrir una terminal y más.
+
+03:49:35.000 --> 03:49:46.000
+Bueno, eso quiero decir, ahora no de. Y vamos a verificar la versión.
+
+03:49:46.000 --> 03:49:55.000
+Vamos a escribir Nfm Y nos vamos a verificar la versión también.
+
+03:49:55.000 --> 03:50:18.000
+Si les abre la terminal de noche y es, pero con Getbage la que sea, va como sí, Bueno, yo.
+
+03:50:18.000 --> 03:50:26.000
+Se actualiza cada tanto y.
+
+03:50:26.000 --> 03:50:36.000
+No hay problema.
+
+03:50:36.000 --> 03:50:55.000
+Supongo que sí. Creo que sí, pero es lo mismo, igual.
+
+03:50:55.000 --> 03:51:04.000
+Bien hay alguien que no haya podido alguien que tuvo problemas o algo por el estilo.
+
+03:51:04.000 --> 03:51:18.000
+Sí, todas las consolas y terminales son iguales chicos. No es lo mismo una vez, porque lo que está instalado es la herramienta.
+
+03:51:18.000 --> 03:51:26.000
+Alguien tuvo problemas. Uno.
+
+03:51:26.000 --> 03:51:29.000
+No. Probablemente.
+
+03:51:29.000 --> 03:51:46.000
+Sí, ese así me cerraste. ¿Y qué pasó?
+
+03:51:46.000 --> 03:51:50.000
+La versión 12 a la versión 12.
+
+03:51:50.000 --> 03:52:20.000
+Es una banda. ¿Qué raro?
+
+03:52:32.000 --> 03:52:37.000
+Creo que lo puedes actualizar.
+
+03:52:37.000 --> 03:52:56.000
+Con los comandos de Sudo Update y O.
+
+03:52:56.000 --> 03:53:26.000
+No. Bueno, Arturo: Se tiene una versión más nueva.
+
+03:53:27.000 --> 03:53:36.000
+Bueno, ya tenemos medio trabajo hecho para la semana que viene, que la semana que viene chicos va a ser complicada.
+
+03:53:36.000 --> 03:53:49.000
+Si vamos a ver esas, va a cambiar totalmente todo su modo de verse. Css Va a tener otra vista.
+
+03:53:49.000 --> 03:53:53.000
+Van a ver la magia real de Css.
+
+03:53:53.000 --> 03:54:06.000
+Bien dicho, vamos a lo importante.
+
+03:54:06.000 --> 03:54:13.000
+Que están.
+
+03:54:13.000 --> 03:54:18.000
+Antes han decidido el horario ya.
+
+03:54:18.000 --> 03:54:33.000
+O cuando me lo dicen.
+
+03:54:33.000 --> 03:54:44.000
+Si no el lunes me avisan, no hay problema. Si tienen hoy, mañana, el lunes me mandan y lo hacemos.
+
+03:54:44.000 --> 03:54:52.000
+Si no voy a hacer la votación ahora, antes de que se empiecen a ir.
+
+03:54:52.000 --> 03:54:56.000
+Qué? Grande! Guapo!
+
+03:54:56.000 --> 03:55:06.000
+A ver primera. Segunda, que la creó ya.
+
+03:55:06.000 --> 03:55:23.000
+El jueves es hoy sábado 27 el jueves. Primero.
+
+03:55:23.000 --> 03:55:53.000
+De febrero.
+
+03:56:10.000 --> 03:56:29.000
+2 segunditos. Tuki Tubi.
+
+03:56:29.000 --> 03:56:44.000
+Y ahí va.
+
+03:56:44.000 --> 03:57:06.000
+Gracias.
+
+03:57:06.000 --> 03:57:30.000
+Ah, Bueno, 14 botaron a las 18.
+
+03:57:30.000 --> 03:58:00.000
+Los mismos Catorce habrán votado acá.
+
+03:58:03.000 --> 03:58:07.000
+Por el.
+
+03:58:07.000 --> 03:58:19.000
+Bueno a ver.
+
+03:58:19.000 --> 03:58:28.000
+A dar un ratito. Ya finalizamos.
+
+03:58:28.000 --> 03:58:38.000
+Si no el primero del juego.
+
+03:58:38.000 --> 03:58:53.000
+Por la.
+
+03:58:53.000 --> 03:59:04.000
+Bien, ya damos por finalizar la sesión y ha ganado el día jueves a las 18 h.
+
+03:59:04.000 --> 03:59:29.000
+Para que vean que soy justo. Les voy a mostrar los resultados para que no digan que estaba arreglado.
+
+03:59:29.000 --> 03:59:41.000
+Listo. Jueves Dieciocho horas Bien, primero. Segunda, Pre Entrega chicos. Tiene nuestro proyecto final.
+
+03:59:41.000 --> 04:00:04.000
+Sí. Ahora va a tener que entregar el proyecto en donde, a través de Github, sí a través del repositorio de Hitchcock, tiene que estar activado hija de Kitt Hapege por favor, sí, no se olviden de eso es muy importante, sino efe bien, hacer entrega del proyecto 2 páginas.
+
+04:00:04.000 --> 04:00:05.000
+A elección.
+
+04:00:05.000 --> 04:00:08.000
+No sé por ahí dame jugo.
+
+04:00:08.000 --> 04:00:15.000
+Adaptada. Recuerda que hay alguien que tiene micrófono prendido.
+
+04:00:15.000 --> 04:00:33.000
+Esta 2 páginas. Selección adaptada, Mobile. Y a esto no tienen que ser 2 páginas responsibles para generar un diseño responsive, Utilicemos Grid System utilizado para generar esto necesito usar el System de gustavo.
+
+04:00:33.000 --> 04:00:50.000
+Sí tiene que estar realizar ya la estructura avanzada del sitio. Así, con Flets, con todas las cosas que hemos visto con las pseudo clases, con mediacuerris con todo.
+
+04:00:50.000 --> 04:00:51.000
+Ya la estructura Html tiene que estar más completa si tienen que empezar a poner más contenido.
+
+04:00:51.000 --> 04:01:02.000
+Ya no puede ser como la primera prenda. Tienen que agregar todo lo que hemos visto bustra. También.
+
+04:01:02.000 --> 04:01:07.000
+Si no saben qué hacer con Bustra, pueden usar el menú hamburguesa, sí que es.
+
+04:01:07.000 --> 04:01:12.000
+Él el bot carruseles acordeones, Sí, Bueno, ahí con los iconos de Woodstrap.
+
+04:01:12.000 --> 04:01:19.000
+No cuenta como usar Bous Trap: Sí, ojo.
+
+04:01:19.000 --> 04:01:23.000
+Pueden usarlos, pero no cuenta con un ser buscado.
+
+04:01:23.000 --> 04:01:29.000
+Bien tienen que maquetar Usando Woods Trap Ogrid Mafflets.
+
+04:01:29.000 --> 04:01:38.000
+Si eso es A, aprovechen estas herramientas que tienen porque les va a ser un poco más fácil el trabajo.
+
+04:01:38.000 --> 04:02:04.000
+Como dice acá, todas las páginas deben tener el contenido estructurado y el estilo Linkedinado, si no es que solamente se hacen 2 páginas, no se trabaja en todas las páginas, del sitio web si en los 5 html se trabaja los 5 chicos no 1 ni 2 los 5 hay que el contenido estructural, ya con etiqueta semántica, ya que tenga contenido medianamente acorde a
+
+04:02:04.000 --> 04:02:26.000
+lo que están haciendo sin nada de poco contenido, sino que tenga uso de ser la página. Realmente Sí, Bueno, tiene que cambiar el uso del nombre de clases si no lo han hecho a nombre de clases más rehusables más elegibles y que este tomas estructurado.
+
+04:02:26.000 --> 04:02:33.000
+No esteban como de pasaste de 2 a 10 páginas.
+
+04:02:33.000 --> 04:02:45.000
+Entendí cómo hiciste para pasar de 2 a 10, y no de tus 5 2 deben ser responsables.
+
+04:02:45.000 --> 04:02:53.000
+No, no. Una página web. Es un archivo Html, sitio web Es un conjunto de páginas.
+
+04:02:53.000 --> 04:02:58.000
+Html.
+
+04:02:58.000 --> 04:03:21.000
+No Javas tiene que tener el link. Te gusta. Para eso no es que tiene que tener Javascript en el script de Woods trap que funciona se acuerdan sin eso no funciona en Carrusel ni funciona. El menú Bueno, de esos 5 Html 2 tienen que ser responsables sí, Full Responsi Nosotros 3 puede fallar.
+
+04:03:21.000 --> 04:03:49.000
+Y depende que uses. Me gusta. Si no se hacen menos hamburguesas, todos los Html Fíjate que vas a tener que trabajar bastante en 2 Html con Bush Trap tiene que usar griet Flets o sea todo el sitio tiene que estar trabajado no puede ser que solamente hayan 2 y no todos todos los cincoches también tienen que tener contenido tienen que tener el no solamente
+
+04:03:49.000 --> 04:03:56.000
+2 de esos 5 2 pueden elegir que sean responsables. No tienen que ser un responsive forzado.
+
+04:03:56.000 --> 04:04:06.000
+Se acuerdan? ¿Cuál era el responsive forzado?
+
+04:04:06.000 --> 04:04:18.000
+No era texto. Imagen, texto, imagen, texto 1 abajo del otro.
+
+04:04:18.000 --> 04:04:24.000
+Se entiende.
+
+04:04:24.000 --> 04:04:49.000
+Tiene esto tiene que haber una vista, por ejemplo, en vez de que sea 1 bajo el otro 1 al lado 1 costado. Y de esto, el mobile sí 1 abajo del otro. Pero si en esto ponen 1 abajo del otro si para el siguiente sábado, son 7 días a partir de ahora lean.
+
+04:04:49.000 --> 04:04:59.000
+Como quieras este fin. Si vos te sentís cómoda refactorizando tu código, hacerlo, si lo quieres empezar de 0 a 0, el problema.
+
+04:04:59.000 --> 04:05:04.000
+Es más por ahí. Si ya lo empezaste y te vuelves, loca.
+
+04:05:04.000 --> 04:05:14.000
+También para de mobile a esto, incluido Tablet.
+
+04:05:14.000 --> 04:05:25.000
+Que no lo vean como algo malo. Porque si está bien hecho en esto, un tablet sale solo.
+
+04:05:25.000 --> 04:05:42.000
+Sí, cada una en la clase de mediacuerris de Great, Dos Tommy, la clase de gris en la clase gris, tenés el Breaking Street, 2 en la clase 2 fue la que vimos en la parte de base mediapolis.
+
+04:05:42.000 --> 04:05:45.000
+Sí obvio.
+
+04:05:45.000 --> 04:05:48.000
+Ahora lo resumo.
+
+04:05:48.000 --> 04:05:57.000
+Es la clase 4. Creo que es, ya les digo.
+
+04:05:57.000 --> 04:06:03.000
+Acá material de clase.
+
+04:06:03.000 --> 04:06:09.000
+Gracias a.
+
+04:06:09.000 --> 04:06:14.000
+Acá clase, 4. Glit.
+
+04:06:14.000 --> 04:06:19.000
+La segunda parte.
+
+04:06:19.000 --> 04:06:27.000
+Está.
+
+04:06:27.000 --> 04:06:41.000
+A alguna duda de cómo hacer esto. Allá hay algo que no les haya quedado claro chicos por las dudas.
+
+04:06:41.000 --> 04:06:51.000
+Lo que hay que hacer.
+
+04:06:51.000 --> 04:06:59.000
+Mi consejo use el Natver de Woodstrap en el carrusel.
+
+04:06:59.000 --> 04:07:05.000
+En realidad el día 1 hasta hoy.
+
+04:07:05.000 --> 04:07:17.000
+Pero porque en la clase trevi humorfredbox.
+
+04:07:17.000 --> 04:07:27.000
+Tienen que aplicar todo lo visto hasta hoy, Igual Lo del Grity es papel lo más sencillo.
+
+04:07:27.000 --> 04:07:37.000
+Esto es un referéndum forzado.
+
+04:07:37.000 --> 04:07:59.000
+Esta imagen.
+
+04:07:59.000 --> 04:08:29.000
+Esto es un responsable forzado, imagen, texto, imagen, texto, imagen, texto.
+
+04:08:34.000 --> 04:08:47.000
+Esto es forzado, no se debe hacer. Y tampoco cuenta como contenido para una página, sí ojo.
+
+04:08:47.000 --> 04:08:51.000
+Esa sería Norbo Tablet.
+
+04:08:51.000 --> 04:09:04.000
+Vean de esto. Así que ya tienes un problema. Menos. Lo que tienen que hacer es empezar a reducir la pantalla para abajo.
+
+04:09:04.000 --> 04:09:13.000
+Esto así no es aceptable para una página Html.
+
+04:09:13.000 --> 04:09:36.000
+Bueno, chicos. Recordemos el día jueves a las 18 h. Tenemos After para los que tengan inconvenientes con sus proyectos y todo lo demás. Los que no puedan venir y tienen problemas escriben sus dudas y las resolvemos en vigor.
+
+04:09:36.000 --> 04:09:42.000
+Si usas el gripe system de Woods, ya cuenta como que usaste gustado.
+
+04:09:42.000 --> 04:09:49.000
+Ahora, pero desaprovechen el uso del Natbar.
+
+04:09:49.000 --> 04:09:53.000
+Me gusta.
+
+04:09:53.000 --> 04:09:58.000
+Lo sabe ustedes?
+
+04:09:58.000 --> 04:10:04.000
+Así que, bueno, chicos se pueden retirar. Yo ahora voy a pasar a limpio todo.
+
+04:10:04.000 --> 04:10:14.000
+Claro el botón. Si tienen un sitio color naranja, y el botón es azul de Woody Allen.
+
+04:10:14.000 --> 04:10:28.000
+Tenéis que usar en 2 Tommy. Y así depende. Porque si solamente vas a usar una herramienta detras, ¿para qué vas a usar nuestro?
+
+04:10:28.000 --> 04:10:35.000
+Es como pedir una pizza. Solamente comer aceitunas.
+
+04:10:35.000 --> 04:10:40.000
+Gracias.
+
+04:10:40.000 --> 04:10:48.000
+Claro, aprovéchenlo, No, la clase. Gusta. Vimos cómo personalizar el menú, así que aprovéchenlo.
+
+04:10:48.000 --> 04:10:54.000
+Es una buena herramienta.
+
+04:10:54.000 --> 04:11:00.000
+¿Por qué no te gusta? Juan? Si es fácil?
+
+04:11:00.000 --> 04:11:07.000
+Si lo personalizando, le estás dando el toque manual. No es esa mano. Solamente hay que tener la funcionalidad.
+
+04:11:07.000 --> 04:11:20.000
+Puedes copiar y pegar el peso y después pisar los estilos.
+
+04:11:20.000 --> 04:11:23.000
+Ahí tienes el reto.
+
+04:11:23.000 --> 04:11:31.000
+Sí, o sí se tiene que usar vuestro?
+
+04:11:31.000 --> 04:11:47.000
+Así que, bueno, chicos, los libero a todos se pueden ir a disfrutar del día o lo que queda o lo que empiece, vayan a comer rico, tomar agua, nos vemos el día jueves y si no nos vemos el día sábado cualquier duda escriban sí.
+
+04:11:47.000 --> 04:12:02.000
+Buen fin. De todos. Todos, chicos.
+
