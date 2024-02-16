@@ -33,15 +33,17 @@ nav a:hover {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    text-align: center;
     padding: 1rem;
  }
-
+/*
 .cover-content {
     display: contents;
     text-align: center;
     line-height: 2rem;
     font-size: large;
 }
+*/
 
 .cover-content h1 {
     font-weight: bold;
@@ -85,15 +87,25 @@ btn-check:checked+.btn,
 .text-h3 {
     font-size: 20px;
     font-weight: bold;
-    padding: 15px;
 }
 
+/*
 .items-content {
     display: flex;
     padding: 1.5rem;
     text-align: center;
     line-height: 1.7rem;
     font-size:medium;   
+}
+*/
+
+.cols {
+    text-align: center;
+    display: inline-block; 
+    margin: 5px;
+    padding: 0px;
+    margin-left: 80px;
+    
 }
 
 .items-content svg {
@@ -102,6 +114,7 @@ btn-check:checked+.btn,
     fill: currentcolor;
 }
 
+/*
 .ticks-content {
     display: flex;
     flex-direction: column;    
@@ -110,6 +123,7 @@ btn-check:checked+.btn,
     background-color: #FFF3DA;
     line-height: 1.7rem;
 }
+*/
 
 .ticks-content svg {
     text-align: center;
